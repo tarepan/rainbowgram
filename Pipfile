@@ -4,11 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-scipy = "*"
-numpy = "*"
-librosa = "*"
-toolz = "*"
-matplotlib = "*"
 
 [dev-packages]
 pylint = "*"

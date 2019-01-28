@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\tarep\\.virtualenvs\\rainbowgram-G6u6g1ly\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\tarep\\.virtualenvs\\rainbowgram-G6u6g1ly\\Scripts\\python.exe",
+    "autoDocstring.docstringFormat": "google"
 }

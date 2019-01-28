@@ -3,6 +3,7 @@
 This library provides many utilities related to rainbowgram (conversion, visualization and so on).  
 
 ## Demo
+![Rainbowgram](demo/rain.png)
 
 ## API lists
 * wave2rain
